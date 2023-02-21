@@ -35,4 +35,4 @@ The contracts in this repository are intended for educational purposes only and 
 
 ## License
 
-This repository is licensed under the MIT License. See the License file for more information.
+This repository is licensed under the MIT License.
